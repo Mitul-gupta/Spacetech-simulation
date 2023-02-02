@@ -1,0 +1,18 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.eclipse_mainDIV {
+    border: 20px solid ;
+    
+    }
+    .eclipse_mainDIV img{
+        width: 100%;
+        border-radius: 20px;
+    }
+    .eclipse_mainDIV h5, .eclipse_mainDIV p {
+        margin: 20px;
+    }
+
+ #nasa{
+font-size: 20px;
+ }   
